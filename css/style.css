@@ -1,0 +1,11 @@
+canvas {
+    border: 1px solid black;
+  }
+
+  button {
+      display: flex;
+      justify-content: flex-start;
+      width: 90px;
+      height: 30px;
+      text-align: center;
+  }
